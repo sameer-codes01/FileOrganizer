@@ -14,7 +14,7 @@ Installers: .exe, .msi
 🛠️ Usage
 Clone the repository:
 
-git clone 
+git clone https://github.com/sameer-codes01/FileOrganizer.git
 cd file-organiser
 Run the script:
 
